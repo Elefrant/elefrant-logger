@@ -1,6 +1,6 @@
 # Elefrant Logger
 
-[![wercker status](https://app.wercker.com/status/48eecd26101598e32a0084fb5dca813e/s/master "wercker status")](https://app.wercker.com/project/bykey/48eecd26101598e32a0084fb5dca813e)
+[![wercker status](https://app.wercker.com/status/40d504c37e04394df96a4fd36d57b172/s/master "wercker status")](https://app.wercker.com/project/bykey/40d504c37e04394df96a4fd36d57b172)
 
 [![Dependency Status](https://gemnasium.com/Elefrant/elefrant-logger.svg)](https://gemnasium.com/Elefrant/elefrant-logger)
 
