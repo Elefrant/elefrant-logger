@@ -51,7 +51,7 @@ module.exports = {
 				message = level;
 				level = 'info';
 			}
-			
+
 			level = level || 'info';
 			if (level === 'help') {
 				level = 'info';
